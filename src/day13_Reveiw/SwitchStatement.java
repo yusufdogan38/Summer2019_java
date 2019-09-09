@@ -86,8 +86,7 @@ public class SwitchStatement {
        
            
            switch (grade) {
-               case 'A':
-               case 'B': 
+               case 'A':                                                                      
                    System.out.println("passed the exam");
                    break;
                

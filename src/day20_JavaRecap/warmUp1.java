@@ -16,13 +16,12 @@ public class warmUp1 {
 		 	
 		 */
 		// task01
-			int i=0;
-		for( i = 5; i < 10; ) {
-				i2 += i;
+			int sum1=0;
+		for(int i = 1; i <= 1000; i++ ) { // i: 1~1000
+				sum1 += i;
 		}
 		
-		System.out.println("i"
-				+ ");
+		System.out.println("sum of all nums: "+sum1);
 		
 		
 		// task02
@@ -63,5 +62,4 @@ public class warmUp1 {
 	}
 
 }
-
 

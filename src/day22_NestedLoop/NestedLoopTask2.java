@@ -34,7 +34,16 @@ public class NestedLoopTask2 {
 		
 	}
 	
+	/*  
+	calculator program:
+	write a program that asks user if he/she wants to: *, / , %, -,+
+	then ask user to enter two numbers
+	then return the result to the console
+	and 
 	
+	
+	
+	 */
 	
 	
 	}

@@ -19,16 +19,23 @@ public class Task01_GreaterNumber {
 		 System.out.println(max);
 	 
 	 
+		   
+        String str ="Cybertek ";
+        str.concat("School");
+        str.toLowerCase();
+        System.out.println(str);
 	 
 	 
-	 
-	 
+	 for(int i=0 ; i<=4;) {
+		 i++;
+		 System.out.println(i+"");
+	 }
 }
 	
 	
 	
 	
-	
+ 
 	
 	
 	

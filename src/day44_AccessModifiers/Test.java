@@ -1,6 +1,5 @@
 package day44_AccessModifiers;
 
-package day44_AccessModifiers;
 import static day44_AccessModifiers.Testdata.ID;
 import java.util.Arrays;
 //import static day44_AccessModifiers.Testdata.Name;
